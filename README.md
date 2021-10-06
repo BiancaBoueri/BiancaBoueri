@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a backend developer
+- 🔭 I’m currently working on my own projects
+- 🌱 I’m currently learning NodeJs, TypeORM, Database, SQL
+- 📫 How to reach me: biancaglyciaboueri@gmail.com
+
 <!--
 **BiancaBoueri/BiancaBoueri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
