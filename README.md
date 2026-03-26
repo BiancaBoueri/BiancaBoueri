@@ -1,4 +1,8 @@
-### Estudante de Engenharia Mecatrônica na Universidade de Brasília
+### Embedded Software & Firmware Developer
+### C | C++ | ESP32 | FreeRTOS
+### Embedded Systems, Real-time systems, hardware-software integration, and low-level development
+### Mechatronics Engineering - Near Graduation 
+### Universidade de Brasília (UnB)
 
 <!--
 **BiancaBoueri/BiancaBoueri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
