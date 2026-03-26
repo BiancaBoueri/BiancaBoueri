@@ -1,4 +1,4 @@
-# Hi, I'm Bianca 👋
+## Hi, I'm Bianca 👋
 
 🎯 Embedded Systems, Embedded Software & Firmware Developer  
 💻 C | C++ | ESP32 | FreeRTOS  
@@ -34,7 +34,7 @@
 
 🤖 **Robotics Projects (DROID Team)**  
 - Developed autonomous robots for competitions (LARC, Winter Challenge)
-- Developed Arduino libraries for embedded systems and robotics applications
+- Developed modular C++ libraries for Arduino-based embedded systems using PlatformIO
 - Designed and manually fabricated PCBs and electronic systems
 - Programmed robots using Python and Remote API (robotics simulator CoppeliaSim)
 
