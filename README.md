@@ -1,4 +1,4 @@
-## Hi, I'm Bianca 👋
+### Hi, I'm Bianca 👋
 
 🎯 Software Engineer focused on Embedded Systems, Firmware, and Backend Development.
 
@@ -13,7 +13,7 @@
 🌱 Currently studying Go and learning more about backend development, distributed systems, software architecture, and cloud technologies.
 
 🔬 Experience with:
-- Embedded firmware development using ESP32(Espressif IDE) and FreeRTOS
+- Embedded firmware development using ESP32 (Espressif IDE) and FreeRTOS
 - Concurrent tasks and real-time systems
 - Autonomous robotics projects and PCB development
 - Backend projects with Python, MySQL, and REST APIs
@@ -26,10 +26,3 @@
 - 🤖 4+ years at DROID Robotics Team
 - 🛠️ Experience with robotics, embedded systems, and backend fundamentals
 - 🧠 Interested in backend engineering, systems programming, and infrastructure
-
----
-
-### 🌐 Connect with Me
-
-💼 LinkedIn: linkedin.com/in/bianca-boueri  
-💻 GitHub: github.com/BiancaBoueri
