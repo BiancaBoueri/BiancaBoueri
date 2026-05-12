@@ -1,81 +1,35 @@
 ## Hi, I'm Bianca 👋
 
-🎯 Embedded Systems, Embedded Software & Firmware Developer  
-💻 C | C++ | ESP32 | FreeRTOS  
-⚙️ Real-time systems, low-level programming, and hardware-software integration  
+🎯 Software Engineer focused on Embedded Systems, Firmware, and Backend Development.
+
+💻 C | C++ | Python | Go (learning) | SQL 
+⚙️ ESP32 | FreeRTOS | TCP/IP | Real-Time Systems | Concurrent Systems | Hardware-Software Integration
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🎓 Mechatronics Engineering (Control & Automation) - Near graduation - Universidade de Brasília (UnB) 
-- 🔧 Hands-on experience with embedded systems and firmware development  
-- ⚡ Experience with ESP32, RTOS, sensors, and real-time control  
-- 🛠️ Background in PCB design, electronics, and robotics  
-- 🌍 Seeking remote opportunities in Embedded Systems / Firmware  
+🎓 Mechatronics Engineering student at Universidade de Brasília (UnB)
+🌱 Currently studying Go and learning more about backend development, distributed systems, software architecture, and cloud technologies.
 
----
-
-## 🧠 Skills
-
-- **Languages:** C, C++, Python  
-- **Embedded:** ESP32, FreeRTOS, RTOS concepts  
-- **Concepts:** Real-time systems, concurrency, low-level programming  
-- **Hardware:** PCB design, soldering, electronics prototyping  
-- **Tools:** Git, Linux  
+🔬 Experience with:
+- Embedded firmware development using ESP32(Espressif IDE) and FreeRTOS
+- Concurrent systems and real-time control
+- Autonomous robotics projects and PCB development
+- Backend projects with Python, MySQL, and REST APIs
 
 ---
 
-## 🔬 Projects
+### 🔬 Highlights
 
-🚁 **Tilt-Rotor UAV (final-year project & undergraduate research)**  
-- Developed firmware using ESP32 and FreeRTOS  
-- Implemented real-time control and sensor integration  
-
-🤖 **Robotics Projects (DROID Team)**  
-- Developed autonomous robots for competitions (LARC, Winter Challenge)
-- Developed modular C++ libraries for Arduino-based embedded systems using PlatformIO
-- Designed and manually fabricated PCBs and electronic systems
-- Programmed robots using Python and Remote API (robotics simulator CoppeliaSim)
-
-🧪 More projects coming soon...
+- 🚁 Tilt-Rotor UAV firmware project (TCC + undergraduate research)
+- 🤖 4+ years at DROID Robotics Team
+- 🛠️ Experience with robotics, embedded systems, and backend fundamentals
+- 🧠 Interested in backend engineering, systems programming, and infrastructure
 
 ---
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/bianca-boueri
-- 💻 GitHub: https://github.com/BiancaBoueri/
-
----
-
-## ⚡ Interests
-
-- Embedded Systems  
-- Firmware Development  
-- Robotics & IoT  
-- Low-level programming  
-
----
-
-⭐ Always building and learning in embedded systems!
-
-
-
-
-
-
-<!--
-**BiancaBoueri/BiancaBoueri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 LinkedIn: linkedin.com/in/bianca-boueri  
+💻 GitHub: github.com/BiancaBoueri
