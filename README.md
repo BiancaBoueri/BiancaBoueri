@@ -3,18 +3,18 @@
 🎯 Software Engineer focused on Embedded Systems, Firmware, and Backend Development.
 
 💻 C | C++ | Python | Go (learning) | SQL 
-⚙️ ESP32 | FreeRTOS | TCP/IP | Real-Time Systems | Concurrent Systems | Hardware-Software Integration
+⚙️ ESP32 | FreeRTOS | TCP/IP | Real-Time Systems | Hardware-Software Integration
 
 ---
 
 ### 🚀 About Me
 
-🎓 Mechatronics Engineering student at Universidade de Brasília (UnB)
+🎓 Mechatronics Engineering student at Universidade de Brasília (UnB) - graduating in 2026
 🌱 Currently studying Go and learning more about backend development, distributed systems, software architecture, and cloud technologies.
 
 🔬 Experience with:
 - Embedded firmware development using ESP32(Espressif IDE) and FreeRTOS
-- Concurrent systems and real-time control
+- Concurrent tasks and real-time systems
 - Autonomous robotics projects and PCB development
 - Backend projects with Python, MySQL, and REST APIs
 
