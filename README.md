@@ -1,28 +1,35 @@
-### Hi, I'm Bianca 👋
+### 👋 Hi, I'm Bianca!
 
-🎯 Software Engineer focused on Embedded Systems, Firmware, and Backend Development.
+🎯 Backend Developer with a background in Embedded Systems, Firmware Development, and Robotics.
 
-💻 C | C++ | Python | Go (learning) | SQL 
-⚙️ ESP32 | FreeRTOS | TCP/IP | Real-Time Systems | Hardware-Software Integration
+💻 Java | Python | C | C++ | SQL
+
+⚙️ Spring Boot (learning) | ESP32 | FreeRTOS | TCP/IP | Real-Time Systems
 
 ---
 
 ### 🚀 About Me
 
-🎓 Mechatronics Engineering student at Universidade de Brasília (UnB) - graduating in 2026
-🌱 Currently studying Go and learning more about backend development, distributed systems, software architecture, and cloud technologies.
+🎓 Mechatronics Engineering student at the University of Brasília (UnB), graduating in 2026.
 
-🔬 Experience with:
-- Embedded firmware development using ESP32 (Espressif IDE) and FreeRTOS
-- Concurrent tasks and real-time systems
-- Autonomous robotics projects and PCB development
-- Backend projects with Python, MySQL, and REST APIs
+🌱 Currently expanding my focus into Backend Development through NTT DATA's Java Backend Bootcamp on DIO, studying Java, REST APIs, Spring technologies, Clean Architecture, and AI-assisted application development.
+
+💻 Throughout my undergraduate studies, I worked with Object-Oriented Programming (OOP) in C++, backend projects using Python and MySQL, and embedded systems development, strengthening my skills in software design, problem-solving, and system development.
 
 ---
 
-### 🔬 Highlights
+### ⚙️ Experience & Highlights
 
-- 🚁 Tilt-Rotor UAV firmware project (TCC + undergraduate research)
-- 🤖 4+ years at DROID Robotics Team
-- 🛠️ Experience with robotics, embedded systems, and backend fundamentals
-- 🧠 Interested in backend engineering, systems programming, and infrastructure
+- Developed low-level firmware in C for an ESP32-based Tilt-Rotor UAV (TCC + Undergraduate Research) using FreeRTOS, concurrent tasks, TCP/IP communication, and hardware-software integration.
+
+- Member of DROID Robotics Team for over 4 years, developing autonomous robotics projects, embedded applications, and modular software solutions using C++ and Python.
+
+---
+
+### 💻 Areas of Interest
+
+- Backend Development
+- Software Engineering
+- AI Integration
+- Distributed Systems
+- Embedded Systems
