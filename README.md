@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Bianca!
 
-**Java Developer | C/C++ | Mechatronics Engineering - UnB**
+**Software Developer | Java | C/C++ | Mechatronics Engineering - UnB**
 
 💻 Java • Python • C • C++ • SQL
 
