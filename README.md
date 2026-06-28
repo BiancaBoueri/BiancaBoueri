@@ -1,35 +1,29 @@
-### 👋 Hi, I'm Bianca!
+## 👋 Hi, I'm Bianca!
 
-🎯 Backend Developer with a background in Embedded Systems, Firmware Development, and Robotics.
+**Java Developer | C/C++ | Mechatronics Engineering - UnB**
 
-💻 Java | Python | C | C++ | SQL
-
-⚙️ Spring Boot (learning) | ESP32 | FreeRTOS | TCP/IP | Real-Time Systems
+💻 Java • Python • C • C++ • SQL
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-🎓 Mechatronics Engineering student at the University of Brasília (UnB), graduating in 2026.
+🎓 Mechatronics Engineering student at the University of Brasília (UnB).
 
-🌱 Currently expanding my focus into Backend Development through NTT DATA's Java Backend Bootcamp on DIO, studying Java, REST APIs, Spring technologies, Clean Architecture, and AI-assisted application development.
+🌱 Currently transitioning into Java development through NTT DATA's Java Bootcamp on DIO.
 
-💻 Throughout my undergraduate studies, I worked with Object-Oriented Programming (OOP) in C++, backend projects using Python and MySQL, and embedded systems development, strengthening my skills in software design, problem-solving, and system development.
-
----
-
-### ⚙️ Experience & Highlights
-
-- Developed low-level firmware in C for an ESP32-based Tilt-Rotor UAV (TCC + Undergraduate Research) using FreeRTOS, concurrent tasks, TCP/IP communication, and hardware-software integration.
-
-- Member of DROID Robotics Team for over 4 years, developing autonomous robotics projects, embedded applications, and modular software solutions using C++ and Python.
+Throughout my undergraduate studies, I worked on software development for embedded systems, robotics, firmware, and backend projects using Python and MySQL, building a strong foundation in programming, problem-solving, and Object-Oriented Programming.
 
 ---
 
-### 💻 Areas of Interest
+## ⚙️ Experience
 
-- Backend Development
-- Software Engineering
-- AI Integration
-- Distributed Systems
-- Embedded Systems
+- Firmware development in C for an ESP32-based Tilt-Rotor UAV (PIBIC + TCC) using FreeRTOS and TCP/IP.
+- Member of DROID Robotics Team for over 4 years, developing autonomous robotics software in C++ and Python.
+- Engineering intern working with product development, PCB design, firmware kits, and hardware prototyping.
+
+---
+
+## 🎯 Interests
+
+Backend Development • Software Engineering • Embedded Systems
