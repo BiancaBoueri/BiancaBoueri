@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Bianca!
 
-**Software Developer | Java | C/C++ | Mechatronics Engineering - UnB**
+**Software Developer | Mechatronics Engineering - UnB**
 
-💻 Java • Python • C • C++ • SQL
+💻 C/C++ • Python • SQL
 
 ---
 
@@ -10,7 +10,7 @@
 
 🎓 Mechatronics Engineering student at the University of Brasília (UnB).
 
-🌱 Currently transitioning into Java development through NTT DATA's Java Bootcamp on DIO.
+🌱 Currently transitioning into Full Stack development.
 
 Throughout my undergraduate studies, I worked on software development for embedded systems, robotics, firmware, and backend projects using Python and MySQL, building a strong foundation in programming, problem-solving, and Object-Oriented Programming.
 
